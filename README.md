@@ -1,5 +1,4 @@
-# tkmyabitsdruid
-## tk mybatis和druid的多数据源整合demo
+# tk mybatis和druid的多数据源整合demo
 
 本地新建durid1和druid2两个数据库 
 
