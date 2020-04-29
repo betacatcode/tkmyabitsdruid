@@ -12,5 +12,7 @@ CREATE TABLE `user` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8;
 
+在durid1的user表中随便插入几条数据
+
 运行程序
   
